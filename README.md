@@ -14,10 +14,10 @@ A camera-guided turret that aims water where the lawn actually needs it, instead
 - **Repo:** [lawn-watering-turret →](https://github.com/Kaushik-Yanamandra/lawn-watering-turret)
 
 ### ☀️ Solar Outage Backup System
-A 24 V solar-and-battery kit that keeps the fridge and internet running when the power goes out.
-- **Status:** design done; build in progress
-- **Areas:** battery sizing · load analysis · power electronics · safety
-<!-- Link the repo once it's up: [Repo →](https://github.com/Kaushik-Yanamandra/solar-outage-backup) -->
+A solar-charged 24 V battery system that keeps internet, two laptops and a fan running through 2–3 day hurricane outages.
+- **Status:** designed and sized; not yet built
+- **Areas:** load analysis · battery and solar sizing · power electronics · safety
+- **Repo:** [solar-outage-backup →](https://github.com/Kaushik-Yanamandra/solar-outage-backup)
 
 ---
 
