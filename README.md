@@ -11,7 +11,7 @@ I like building things where hardware, power and code meet: **FPGAs, power syste
 A camera-guided turret that aims water where the lawn actually needs it, instead of soaking the whole yard on a timer.
 - **Status:** designed and simulated; 3D-printing parts for the first prototype
 - **Areas:** computer vision · motor control · mechanical design
-<!-- Link the repo once it's up: [Repo →](https://github.com/Kaushik-Yanamandra/lawn-watering-turret) -->
+- **Repo:** [lawn-watering-turret →](https://github.com/Kaushik-Yanamandra/lawn-watering-turret)
 
 ### ☀️ Solar Outage Backup System
 A 24 V solar-and-battery kit that keeps the fridge and internet running when the power goes out.
